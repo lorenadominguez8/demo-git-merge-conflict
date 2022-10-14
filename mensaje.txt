@@ -1,9 +1,9 @@
-Hola mundo de fresa
+Hola mundo
 adios venus
 
 linea 1
 linea 2
 
 
-lineax
+lineaz
 lineay
